@@ -1,0 +1,13 @@
+{
+  "name": "com.atomknack.uknackbasis",
+  "version": "0.0.1",
+  "displayName": "UKnack Basis",
+  "description": "Set of tools that make working with Unity better",
+  "unity": "2022.2",
+  "author": {
+    "name": "Ivanov Pavel",
+    "email": "atomknack@gmail.com",
+    "url": "atomknack.com"
+  },
+  "scopedRegistries": []
+}

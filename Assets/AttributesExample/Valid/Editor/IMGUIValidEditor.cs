@@ -1,8 +1,8 @@
 using UnityEditor;
 
-[CustomEditor(typeof(IMGUITestPickerBehaviour))]
+[CustomEditor(typeof(IMGUIValid))]
 [CanEditMultipleObjects]
-public class EditorIMGUITestPickerBehaviour : Editor
+public class IMGUIValidEditor : Editor
 {
     SerializedProperty notNullWithInterfacePicker;
 

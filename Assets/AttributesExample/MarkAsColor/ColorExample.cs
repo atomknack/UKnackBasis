@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UKnack.Attributes;
 using UnityEngine;
 
-public class MarkAsColorExample : MonoBehaviour
+public class ColorExample : MonoBehaviour
 {
     [SerializeField]
     [MarkNullAsColor(0.7f, 0.7f, 0.1f)]

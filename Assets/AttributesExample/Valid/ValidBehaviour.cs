@@ -3,7 +3,7 @@ using UKnack.Attributes;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class TestPickerBehaviour : MonoBehaviour, ITest
+public class ValidBehaviour : MonoBehaviour, ITest
 {
     [SerializeField]
     [ValidReference(typeof(ITest))]
@@ -18,19 +18,19 @@ public class TestPickerBehaviour : MonoBehaviour, ITest
     private UnityEngine.Object interfaceOnObject;
 
     [SerializeField]
-    [ValidReference(nameof(ValidTestPickerInterface), typeof(TestPickerBehaviour))] 
+    [ValidReference(nameof(ValidTestPickerInterface), typeof(ValidBehaviour))] 
     private UnityEngine.Object behaviourOnObject;
 
     [SerializeField]
-    [ValidReference(nameof(ValidBehaviourThatHaveChildGameObjects), typeof(TestPickerBehaviour))] 
+    [ValidReference(nameof(ValidBehaviourThatHaveChildGameObjects), typeof(ValidBehaviour))] 
     private MonoBehaviour shouldHaveChild;
 
     [SerializeField]
-    [ValidReference(typeof(TestPickerBehaviour), nameof(ValidBehaviourThatHaveChildGameObjects),
+    [ValidReference(typeof(ValidBehaviour), nameof(ValidBehaviourThatHaveChildGameObjects),
         typeof(ITest),
         typeof(UnityEngine.Component), 
         typeof(UnityEngine.GameObject), 
-        typeof(TestPickerBehaviour), 
+        typeof(ValidBehaviour), 
         typeof(ScriptableObject), 
         typeof(TestScriptableObject)
         )]
@@ -41,7 +41,7 @@ public class TestPickerBehaviour : MonoBehaviour, ITest
     typeof(ITest),
     typeof(UnityEngine.Component),
     typeof(UnityEngine.GameObject),
-    typeof(TestPickerBehaviour),
+    typeof(ValidBehaviour),
     typeof(ScriptableObject),
     typeof(TestScriptableObject)
     )]

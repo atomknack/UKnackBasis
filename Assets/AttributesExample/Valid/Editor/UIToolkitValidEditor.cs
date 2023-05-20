@@ -1,9 +1,9 @@
 using UnityEditor.UIElements;
 using UnityEngine.UIElements;
 
-[UnityEditor.CustomEditor(typeof(UIToolkitTestPickerBehaviour))]
+[UnityEditor.CustomEditor(typeof(UIToolkitValid))]
 [UnityEditor.CanEditMultipleObjects]
-public class EditorUIToolkitTestPickerBehaviour : UnityEditor.Editor
+public class UIToolkitValidEditor : UnityEditor.Editor
 {
     VisualElement _editorRoot;
     public override VisualElement CreateInspectorGUI()

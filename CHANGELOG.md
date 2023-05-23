@@ -1,3 +1,15 @@
+## [1.0.4](https://github.com/atomknack/UKnackBasis/compare/v1.0.3...v1.0.4) (2023-05-23)
+
+
+### Bug Fixes
+
+* trying to make example scripts not disappear ([768e6d3](https://github.com/atomknack/UKnackBasis/commit/768e6d3b3f0b799f2d200e3b4151ceb5b5220cfb))
+
+
+### Reverts
+
+* Revert "fix: changed the author name to just atomknack, for better look in package manager" ([3d722b3](https://github.com/atomknack/UKnackBasis/commit/3d722b346dfec4e84dc45dd84552c14af051009b))
+
 ## [1.0.3](https://github.com/atomknack/UKnackBasis/compare/v1.0.2...v1.0.3) (2023-05-23)
 
 

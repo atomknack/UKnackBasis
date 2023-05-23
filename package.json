@@ -4,6 +4,7 @@
   "displayName": "UKnack Basis",
   "description": "Set of tools that make working with Unity better and help write cleaner code",
   "unity": "2022.2",
+  "unityRelease": "0b8",
   "documentationUrl": "https://github.com/atomknack/UKnackSource/wiki",
   "samples": [
     {
@@ -13,6 +14,9 @@
     }
   ],
   "license": "MIT",
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.1"
+  },
   "author": {
     "name": "Ivanov Pavel",
     "email": "atomknack@gmail.com",

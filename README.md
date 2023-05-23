@@ -1,8 +1,6 @@
 # UKnackBasis
 Documentation available at: https://github.com/atomknack/UKnackSource/wiki
 
-[UKnackBasis](https://github.com/atomknack/UKnackBasis) available under [MIT license](https://github.com/atomknack/UKnackBasis/blob/main/LICENSE).
-
 Require at least Unity version **2022.2** - even if package can be installed on lower versions, it most likely will give a lot of errors and custom picker won't work!
 
 Require and was tested with Input System version 1.5.1.

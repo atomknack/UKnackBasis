@@ -10,15 +10,13 @@ public class ColorExample : MonoBehaviour
     GenericBehaviour<int> _genericInt1;
 
     [SerializeField]
-    [DisableEditingInPlaymode]
     [MarkNullAsColor(0.5f,0.5f,0.1f)]
-    GenericBehaviour<int> _genericInt2DisabledBefore;
+    GenericBehaviour<int> _genericInt2;
 
 
     [SerializeField]
     [MarkNullAsColor(0.35f, 0.35f, 0.1f)]
-    [DisableEditingInPlaymode]
-    GenericBehaviour<int> _genericInt3DisabledAfter;
+    GenericBehaviour<int> _genericInt3;
 
     [SerializeField]
     [MarkNullAsPurple]

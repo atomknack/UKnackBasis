@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/atomknack/UKnackBasis/compare/v1.0.4...v1.0.5) (2023-05-23)
+
+
+### Bug Fixes
+
+* changed the author name to just atomknack for better Package Manager appearance ([73b3b15](https://github.com/atomknack/UKnackBasis/commit/73b3b15c170a557882e3ad5dc1e7559d220fbac7))
+
 ## [1.0.4](https://github.com/atomknack/UKnackBasis/compare/v1.0.3...v1.0.4) (2023-05-23)
 
 

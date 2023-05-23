@@ -4,8 +4,6 @@
 # you can read more about how to use upm-template at https://github.com/adrenak/upm-template/
 
 tagFormat: v${version}
-branches:
-  - main
 plugins:
 - - "@semantic-release/commit-analyzer"
   - preset: angular

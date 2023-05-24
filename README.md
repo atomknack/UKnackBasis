@@ -1,3 +1,5 @@
+[![openupm](https://img.shields.io/npm/v/com.atomknack.uknackbasis?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.atomknack.uknackbasis/)
+
 # UKnackBasis
 Documentation available at: https://github.com/atomknack/UKnackSource/wiki
 

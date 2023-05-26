@@ -37,6 +37,11 @@ jobs:
         git branch -d upm &> /dev/null || echo upm branch not found
         git subtree split -P "$PKG_ROOT" -b upm
         git checkout upm
+        if [[ -d "Samples" ]]; then
+          git mv Samples Samples~
+          rm -f Samples.meta
+          git commit -am "fix: Samples => Samples~"
+        fi
         git push -f -u origin upm
       env:
         PKG_ROOT: "Packages/com.atomknack.uknackbasis"

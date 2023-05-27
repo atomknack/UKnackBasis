@@ -1,0 +1,18 @@
+{
+    "name": "UKnackBasisSamples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:522e280601ce3314381d54176fec819d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "UKnackBasis.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

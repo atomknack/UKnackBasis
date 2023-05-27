@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEditor;
 
 [CustomEditor(typeof(IMGUIValid))]
@@ -26,3 +27,4 @@ public class IMGUIValidEditor : Editor
         EditorGUILayout.PropertyField(serializedObject.FindProperty(name));
     }
 }
+#endif

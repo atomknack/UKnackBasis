@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using UnityEditor.UIElements;
 using UnityEngine.UIElements;
 
@@ -28,3 +29,4 @@ public class UIToolkitValidEditor : UnityEditor.Editor
         _editorRoot.Add(new PropertyField(serializedObject.FindProperty(name)));
     }
 }
+#endif

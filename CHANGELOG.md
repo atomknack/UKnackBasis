@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/atomknack/UKnackBasis/compare/v1.0.5...v1.1.0) (2023-05-27)
+
+
+### Features
+
+* soevent with generic and nongeneric versions ([ec8cf76](https://github.com/atomknack/UKnackBasis/commit/ec8cf765fb1860da93718f40a1f5ecce5a2b0e93))
+
 ## [1.0.5](https://github.com/atomknack/UKnackBasis/compare/v1.0.4...v1.0.5) (2023-05-23)
 
 

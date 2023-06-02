@@ -13,6 +13,11 @@
       "path": "Samples~/AttributesExample"
     },
     {
+      "displayName": "SingletonId Muliti-Scene Example",
+      "description": "Contains examples how to use SingletonId for objects that have multi-scene life cycle",
+      "path": "Samples~/SingletonIdMultiSceneExample"
+    },
+    {
       "displayName": "SOEvents Examples",
       "description": "Contains examples how to use Events from this library",
       "path": "Samples~/SOEventsExample"

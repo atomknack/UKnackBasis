@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/atomknack/UKnackBasis/compare/v1.1.0...v1.2.0) (2023-06-02)
+
+
+### Features
+
+* singletonid, common, added vector2 to conctere event types ([5c0a769](https://github.com/atomknack/UKnackBasis/commit/5c0a769351d76123bdb0821ad48f7ddfda3fb80b))
+
 # [1.1.0](https://github.com/atomknack/UKnackBasis/compare/v1.0.5...v1.1.0) (2023-05-27)
 
 

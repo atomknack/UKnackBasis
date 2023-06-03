@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 19101, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SingletonIdMultiSceneExamplePanel
+  m_Name: PanelSettings_SingletonIdMultiSceneExample
   m_EditorClassIdentifier: 
-  themeUss: {fileID: -4733365628477956816, guid: 842b4f7e728837e4a8b367cc34b8fe1b, type: 3}
+  themeUss: {fileID: -4733365628477956816, guid: 62c4a4187044c75409f127c23bf0d90b, type: 3}
   m_TargetTexture: {fileID: 0}
   m_ScaleMode: 1
   m_ReferenceSpritePixelsPerUnit: 100

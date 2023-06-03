@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/atomknack/UKnackBasis/compare/v1.2.0...v1.2.1) (2023-06-03)
+
+
+### Bug Fixes
+
+* **ievents:** unsubscribenullsafe null check for event ([368e5d1](https://github.com/atomknack/UKnackBasis/commit/368e5d17f2a6570ef330f3e2253a4f03f268b2a3))
+
 # [1.2.0](https://github.com/atomknack/UKnackBasis/compare/v1.1.0...v1.2.0) (2023-06-02)
 
 

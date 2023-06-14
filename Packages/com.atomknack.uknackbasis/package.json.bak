@@ -21,11 +21,6 @@
       "displayName": "SOEvents Examples",
       "description": "Contains examples how to use Events from this library",
       "path": "Samples~/SOEventsExample"
-    },
-    {
-      "displayName": "VisualElement Examples",
-      "description": "Contains examples for Visual Elements",
-      "path": "Samples~/VisualElementsExample"
     }
   ],
   "license": "MIT",

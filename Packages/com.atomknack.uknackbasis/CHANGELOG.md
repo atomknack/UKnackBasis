@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/atomknack/UKnackBasis/compare/v1.3.0...v1.4.0) (2023-06-14)
+
+
+### Features
+
+* visualelementsorted ([0709e56](https://github.com/atomknack/UKnackBasis/commit/0709e56245afff2cf914510f360d57c364c34bac))
+
 # [1.3.0](https://github.com/atomknack/UKnackBasis/compare/v1.2.1...v1.3.0) (2023-06-11)
 
 

@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/atomknack/UKnackBasis/compare/v1.4.0...v1.5.0) (2023-06-16)
+
+
+### Features
+
+* sovalues ([ca83c5c](https://github.com/atomknack/UKnackBasis/commit/ca83c5c1d1992df1a486b979bcea14209668427d))
+
 # [1.4.0](https://github.com/atomknack/UKnackBasis/compare/v1.3.0...v1.4.0) (2023-06-14)
 
 

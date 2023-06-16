@@ -1,6 +1,6 @@
 {
   "name": "com.atomknack.uknackbasis",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "displayName": "UKnack Basis",
   "description": "Set of tools that make working with Unity better and help write cleaner code",
   "unity": "2022.2",

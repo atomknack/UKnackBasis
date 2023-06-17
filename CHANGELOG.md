@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/atomknack/UKnackBasis/compare/v1.5.0...v1.5.1) (2023-06-17)
+
+
+### Bug Fixes
+
+* generated meta files for new scripts ([e87d18d](https://github.com/atomknack/UKnackBasis/commit/e87d18d057e74bb6696b4643c787b12d7168058e))
+
 # [1.5.0](https://github.com/atomknack/UKnackBasis/compare/v1.4.0...v1.5.0) (2023-06-16)
 
 

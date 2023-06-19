@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/atomknack/UKnackBasis/compare/v1.5.1...v1.6.0) (2023-06-19)
+
+
+### Features
+
+* effortlessupdater ([3b308dd](https://github.com/atomknack/UKnackBasis/commit/3b308dd03918c5b526de7123133898d9fdc77526))
+
 ## [1.5.1](https://github.com/atomknack/UKnackBasis/compare/v1.5.0...v1.5.1) (2023-06-17)
 
 

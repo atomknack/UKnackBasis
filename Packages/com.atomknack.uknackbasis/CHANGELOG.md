@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/atomknack/UKnackBasis/compare/v1.6.0...v1.6.1) (2023-06-19)
+
+
+### Bug Fixes
+
+* meta for effortlessupdaterfromvalueso ([5457c24](https://github.com/atomknack/UKnackBasis/commit/5457c241bb1f4f4b69949758bd04c75d9167253c))
+
 # [1.6.0](https://github.com/atomknack/UKnackBasis/compare/v1.5.1...v1.6.0) (2023-06-19)
 
 

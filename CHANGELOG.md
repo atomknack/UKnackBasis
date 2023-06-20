@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/atomknack/UKnackBasis/compare/v1.6.1...v1.7.0) (2023-06-20)
+
+
+### Features
+
+* effortlessslidertofloatbinding ([8b47448](https://github.com/atomknack/UKnackBasis/commit/8b47448d2e2bad774e6e5a49d5342d23a87449a3))
+
 ## [1.6.1](https://github.com/atomknack/UKnackBasis/compare/v1.6.0...v1.6.1) (2023-06-19)
 
 

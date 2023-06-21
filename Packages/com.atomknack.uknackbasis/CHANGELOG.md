@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/atomknack/UKnackBasis/compare/v1.8.1...v1.8.2) (2023-06-21)
+
+
+### Bug Fixes
+
+* fix for last fix ([9fa64cc](https://github.com/atomknack/UKnackBasis/commit/9fa64cc9faf0f38ae76272ceb6b3a87d6cbe3714))
+
 ## [1.8.1](https://github.com/atomknack/UKnackBasis/compare/v1.8.0...v1.8.1) (2023-06-21)
 
 

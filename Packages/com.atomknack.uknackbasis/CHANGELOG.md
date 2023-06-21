@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/atomknack/UKnackBasis/compare/v1.8.0...v1.8.1) (2023-06-21)
+
+
+### Bug Fixes
+
+* effortlessslider now will react to change to value from other source ([c6c6389](https://github.com/atomknack/UKnackBasis/commit/c6c6389cab5fe2e0ff117b7d1d4ecf05a6899f58))
+
 # [1.8.0](https://github.com/atomknack/UKnackBasis/compare/v1.7.2...v1.8.0) (2023-06-21)
 
 

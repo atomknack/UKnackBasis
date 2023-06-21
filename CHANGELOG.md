@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/atomknack/UKnackBasis/compare/v1.7.2...v1.8.0) (2023-06-21)
+
+
+### Features
+
+* audiosourcesvolumeupdater ([c880522](https://github.com/atomknack/UKnackBasis/commit/c88052271d62e91750610a97e9af926ce896878b))
+
 ## [1.7.2](https://github.com/atomknack/UKnackBasis/compare/v1.7.1...v1.7.2) (2023-06-21)
 
 

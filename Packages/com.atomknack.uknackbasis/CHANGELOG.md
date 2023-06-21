@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/atomknack/UKnackBasis/compare/v1.7.1...v1.7.2) (2023-06-21)
+
+
+### Bug Fixes
+
+* added component menu for effortless slider ([cf38ec6](https://github.com/atomknack/UKnackBasis/commit/cf38ec6b6f358cb59d370eee86ab66bde911f466))
+
 ## [1.7.1](https://github.com/atomknack/UKnackBasis/compare/v1.7.0...v1.7.1) (2023-06-21)
 
 

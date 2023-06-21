@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/atomknack/UKnackBasis/compare/v1.7.0...v1.7.1) (2023-06-21)
+
+
+### Bug Fixes
+
+* soprefsaudiovolume filename ([8579724](https://github.com/atomknack/UKnackBasis/commit/8579724394e71adeaf070eb15888050da35bf15c))
+
 # [1.7.0](https://github.com/atomknack/UKnackBasis/compare/v1.6.1...v1.7.0) (2023-06-20)
 
 

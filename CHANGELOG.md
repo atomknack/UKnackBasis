@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/atomknack/UKnackBasis/compare/v1.8.2...v1.9.0) (2023-06-23)
+
+
+### Features
+
+* commands and concrete conditional publisher ([287a755](https://github.com/atomknack/UKnackBasis/commit/287a755669559fb7f43ef6a36a820583854dee3f))
+
 ## [1.8.2](https://github.com/atomknack/UKnackBasis/compare/v1.8.1...v1.8.2) (2023-06-21)
 
 

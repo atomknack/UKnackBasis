@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/atomknack/UKnackBasis/compare/v1.9.0...v1.9.1) (2023-06-23)
+
+
+### Bug Fixes
+
+* createassetmenu ([5fbf06c](https://github.com/atomknack/UKnackBasis/commit/5fbf06c989edef0d1ae8b3651493aae2de0cca37))
+
 # [1.9.0](https://github.com/atomknack/UKnackBasis/compare/v1.8.2...v1.9.0) (2023-06-23)
 
 

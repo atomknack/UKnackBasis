@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/atomknack/UKnackBasis/compare/v2.0.0...v2.0.1) (2023-06-24)
+
+
+### Bug Fixes
+
+* removed base ondisable from method that called from ondisable ([149904d](https://github.com/atomknack/UKnackBasis/commit/149904d61a8c14219efcc7f9392731e3551b38dd))
+
 # [2.0.0](https://github.com/atomknack/UKnackBasis/compare/v1.9.1...v2.0.0) (2023-06-24)
 
 

@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/atomknack/UKnackBasis/compare/v1.9.1...v2.0.0) (2023-06-24)
+
+
+### Features
+
+* effrotlessuielemen classes are now implement ilayoutdependant ([e0f7fe8](https://github.com/atomknack/UKnackBasis/commit/e0f7fe84c410dfcd2a281bdc7d49f1681148457a))
+
+
+### BREAKING CHANGES
+
+* this changes preconcrete ui types sufficiently enough to increase major version number
+* samples will be now removed and available in their own separate repository: https://github.com/atomknack/UKnackExampleProjects in project: https://github.com/atomknack/UKnackExampleProjects/tree/main/BasisSamples
+
 ## [1.9.1](https://github.com/atomknack/UKnackBasis/compare/v1.9.0...v1.9.1) (2023-06-23)
 
 

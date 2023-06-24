@@ -6,28 +6,6 @@
   "unity": "2022.2",
   "unityRelease": "0b8",
   "documentationUrl": "https://github.com/atomknack/UKnackSource/wiki",
-  "samples": [
-    {
-      "displayName": "Attribute Examples",
-      "description": "Contains examples how to use attributes from this library",
-      "path": "Samples~/AttributesExample"
-    },
-    {
-      "displayName": "SingletonId Muliti-Scene Example",
-      "description": "Contains examples how to use SingletonId for objects that have multi-scene life cycle",
-      "path": "Samples~/SingletonIdMultiSceneExample"
-    },
-    {
-      "displayName": "SOEvents Examples",
-      "description": "Contains examples how to use Events from this library",
-      "path": "Samples~/SOEventsExample"
-    },
-    {
-      "displayName": "VisualElement Examples",
-      "description": "Contains examples for Visual Elements",
-      "path": "Samples~/VisualElementsExample"
-    }
-  ],
   "license": "MIT",
   "dependencies": {
     "com.unity.inputsystem": "1.5.1"

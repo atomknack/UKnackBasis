@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/atomknack/UKnackBasis/compare/v2.0.1...v2.0.2) (2023-06-25)
+
+
+### Bug Fixes
+
+* namespace for effortlessupdaterfromvalueso ([c312649](https://github.com/atomknack/UKnackBasis/commit/c312649d938b04ae4046dd3051991363dcd9b813))
+
 ## [2.0.1](https://github.com/atomknack/UKnackBasis/compare/v2.0.0...v2.0.1) (2023-06-24)
 
 

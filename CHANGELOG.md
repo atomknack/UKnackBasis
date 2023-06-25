@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/atomknack/UKnackBasis/compare/v2.0.2...v2.0.3) (2023-06-25)
+
+
+### Bug Fixes
+
+* concrete class rename ([f9f8521](https://github.com/atomknack/UKnackBasis/commit/f9f8521f80c41dc0e4f8030eb43c08e824ec0ea7))
+
 ## [2.0.2](https://github.com/atomknack/UKnackBasis/compare/v2.0.1...v2.0.2) (2023-06-25)
 
 

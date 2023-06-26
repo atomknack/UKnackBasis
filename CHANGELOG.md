@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/atomknack/UKnackBasis/compare/v2.0.3...v2.0.4) (2023-06-26)
+
+
+### Bug Fixes
+
+* assemblyinfo update ([82796ad](https://github.com/atomknack/UKnackBasis/commit/82796adf1954703dd9b2de3d8002901ac9ea5f05))
+
 ## [2.0.3](https://github.com/atomknack/UKnackBasis/compare/v2.0.2...v2.0.3) (2023-06-25)
 
 

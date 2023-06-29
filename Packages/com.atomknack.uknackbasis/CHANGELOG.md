@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/atomknack/UKnackBasis/compare/v2.0.4...v2.1.0) (2023-06-29)
+
+
+### Features
+
+* platformdependentevent and loadscenesinglesynccommand ([37e5ddb](https://github.com/atomknack/UKnackBasis/commit/37e5ddb652f3f3a8a739b12f74595636a1df3fdb))
+
 ## [2.0.4](https://github.com/atomknack/UKnackBasis/compare/v2.0.3...v2.0.4) (2023-06-26)
 
 

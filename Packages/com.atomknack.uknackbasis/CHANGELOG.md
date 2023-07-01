@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/atomknack/UKnackBasis/compare/v2.1.0...v2.1.1) (2023-07-01)
+
+
+### Bug Fixes
+
+* SetValueWithoutNotify is now part of IValueSetterWithoutNotification ([17a53bd](https://github.com/atomknack/UKnackBasis/commit/17a53bd999e483dcdc0fffb1a7bc52fcfc8ca712))
+
 # [2.1.0](https://github.com/atomknack/UKnackBasis/compare/v2.0.4...v2.1.0) (2023-06-29)
 
 

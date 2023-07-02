@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/atomknack/UKnackBasis/compare/v2.1.1...v2.2.0) (2023-07-02)
+
+
+### Features
+
+* keyvalueconcrete ([c72d3a0](https://github.com/atomknack/UKnackBasis/commit/c72d3a048dd069e6dd97be4c7326d7633875a985))
+
 ## [2.1.1](https://github.com/atomknack/UKnackBasis/compare/v2.1.0...v2.1.1) (2023-07-01)
 
 

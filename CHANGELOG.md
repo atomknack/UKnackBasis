@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/atomknack/UKnackBasis/compare/v2.2.0...v2.2.1) (2023-07-05)
+
+
+### Bug Fixes
+
+* modified accessibility for sokeyvaluemutable ([e9df187](https://github.com/atomknack/UKnackBasis/commit/e9df18764b81ffe3a139dfd8a29f92e8fb307470))
+
 # [2.2.0](https://github.com/atomknack/UKnackBasis/compare/v2.1.1...v2.2.0) (2023-07-02)
 
 

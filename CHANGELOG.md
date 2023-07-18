@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/atomknack/UKnackBasis/compare/v2.2.1...v2.3.0) (2023-07-18)
+
+
+### Features
+
+* DestroyGameObjectCommand ([c22f1f3](https://github.com/atomknack/UKnackBasis/commit/c22f1f370b1472ae9cba1bf2257cd1f7423ec604))
+
 ## [2.2.1](https://github.com/atomknack/UKnackBasis/compare/v2.2.0...v2.2.1) (2023-07-05)
 
 

@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/atomknack/UKnackBasis/compare/v2.3.0...v2.3.1) (2023-07-18)
+
+
+### Bug Fixes
+
+* removal of package.json.bak ([9ca2eae](https://github.com/atomknack/UKnackBasis/commit/9ca2eae1fad00aa952b27f5acf543c6781f79b5a))
+
 # [2.3.0](https://github.com/atomknack/UKnackBasis/compare/v2.2.1...v2.3.0) (2023-07-18)
 
 

@@ -1,3 +1,10 @@
+## [2.3.2](https://github.com/atomknack/UKnackBasis/compare/v2.3.1...v2.3.2) (2023-07-18)
+
+
+### Bug Fixes
+
+* added command suffix to DestroyGameObject menu item ([154a609](https://github.com/atomknack/UKnackBasis/commit/154a60969933d39aae7f32f6e5bd948b5848c6ca))
+
 ## [2.3.1](https://github.com/atomknack/UKnackBasis/compare/v2.3.0...v2.3.1) (2023-07-18)
 
 

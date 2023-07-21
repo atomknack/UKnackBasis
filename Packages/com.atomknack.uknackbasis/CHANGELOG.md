@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/atomknack/UKnackBasis/compare/v2.3.2...v2.4.0) (2023-07-21)
+
+
+### Features
+
+* DelayedUnityEventCommand ([fe8735c](https://github.com/atomknack/UKnackBasis/commit/fe8735c84af70536707faad110faf4a8dd96776c))
+
 ## [2.3.2](https://github.com/atomknack/UKnackBasis/compare/v2.3.1...v2.3.2) (2023-07-18)
 
 

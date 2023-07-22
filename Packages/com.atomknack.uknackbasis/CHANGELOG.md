@@ -1,3 +1,10 @@
+## [2.4.1](https://github.com/atomknack/UKnackBasis/compare/v2.4.0...v2.4.1) (2023-07-22)
+
+
+### Bug Fixes
+
+* UI.SimpleToolkit ILayoutDependant layout access modifiers changed from internal to protected ([4340bd4](https://github.com/atomknack/UKnackBasis/commit/4340bd4d859dd63444ad1a92825708e8104a9560))
+
 # [2.4.0](https://github.com/atomknack/UKnackBasis/compare/v2.3.2...v2.4.0) (2023-07-21)
 
 

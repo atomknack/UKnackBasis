@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/atomknack/UKnackBasis/compare/v2.5.0...v2.6.0) (2023-07-25)
+
+
+### Features
+
+* basis dll refactoring ([1eee613](https://github.com/atomknack/UKnackBasis/commit/1eee613403249c2c57fe72ec2b0dceb787b44e90))
+
 # [2.5.0](https://github.com/atomknack/UKnackBasis/compare/v2.4.1...v2.5.0) (2023-07-25)
 
 

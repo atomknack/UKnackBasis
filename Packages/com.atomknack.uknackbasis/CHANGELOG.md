@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/atomknack/UKnackBasis/compare/v2.6.0...v2.6.1) (2023-08-01)
+
+
+### Bug Fixes
+
+* refactoring ([9495903](https://github.com/atomknack/UKnackBasis/commit/94959037fb4a406f459fe764ae2e2b9a48b245f5))
+
 # [2.6.0](https://github.com/atomknack/UKnackBasis/compare/v2.5.0...v2.6.0) (2023-07-25)
 
 

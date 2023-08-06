@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/atomknack/UKnackBasis/compare/v2.6.1...v2.7.0) (2023-08-06)
+
+
+### Features
+
+* validation for ValidReference now can be non-static ([3aa21b4](https://github.com/atomknack/UKnackBasis/commit/3aa21b4dd692b07c9f2ce7576df3f36b05b7e966))
+
 ## [2.6.1](https://github.com/atomknack/UKnackBasis/compare/v2.6.0...v2.6.1) (2023-08-01)
 
 

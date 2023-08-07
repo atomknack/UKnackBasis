@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/atomknack/UKnackBasis/compare/v2.7.0...v2.8.0) (2023-08-07)
+
+
+### Features
+
+* ValidReference for Gameobject show filtered picker ([5848641](https://github.com/atomknack/UKnackBasis/commit/5848641a2d77686cddd50e87f7c6e5273b4ebf2f))
+
 # [2.7.0](https://github.com/atomknack/UKnackBasis/compare/v2.6.1...v2.7.0) (2023-08-06)
 
 

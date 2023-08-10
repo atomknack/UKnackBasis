@@ -1,3 +1,10 @@
+# [2.9.0](https://github.com/atomknack/UKnackBasis/compare/v2.8.0...v2.9.0) (2023-08-10)
+
+
+### Features
+
+* GetOrThrow for Visual Element ([d31d569](https://github.com/atomknack/UKnackBasis/commit/d31d5697a6dd571681939047e8c0fe80b9e0a011))
+
 # [2.8.0](https://github.com/atomknack/UKnackBasis/compare/v2.7.0...v2.8.0) (2023-08-07)
 
 

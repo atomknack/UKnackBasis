@@ -1,3 +1,10 @@
+## [2.9.1](https://github.com/atomknack/UKnackBasis/compare/v2.9.0...v2.9.1) (2023-08-10)
+
+
+### Bug Fixes
+
+* for advanced validation ProvideOrNull and EffortlessUIElement_NNNN_Fields ([c67ac5c](https://github.com/atomknack/UKnackBasis/commit/c67ac5cb0c91dee29463e39794d0372c4d93f6a8))
+
 # [2.9.0](https://github.com/atomknack/UKnackBasis/compare/v2.8.0...v2.9.0) (2023-08-10)
 
 

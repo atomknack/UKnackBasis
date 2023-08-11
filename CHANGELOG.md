@@ -1,3 +1,10 @@
+# [2.10.0](https://github.com/atomknack/UKnackBasis/compare/v2.9.1...v2.10.0) (2023-08-11)
+
+
+### Features
+
+* EffortlessUIElement two additional types, fix: TryAssignTextWithoutNotification ([af75cde](https://github.com/atomknack/UKnackBasis/commit/af75cde7c44d3ca2d875849ba42d32322aba5b60))
+
 ## [2.9.1](https://github.com/atomknack/UKnackBasis/compare/v2.9.0...v2.9.1) (2023-08-10)
 
 

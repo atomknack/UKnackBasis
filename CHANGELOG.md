@@ -1,3 +1,10 @@
+# [2.11.0](https://github.com/atomknack/UKnackBasis/compare/v2.10.0...v2.11.0) (2023-08-21)
+
+
+### Features
+
+* USetOrDefault added constructor with value for default, internals visible to magiclanjello ([bb3cbd1](https://github.com/atomknack/UKnackBasis/commit/bb3cbd1543bdd8124696daea3e16d8d02f3ed22e))
+
 # [2.10.0](https://github.com/atomknack/UKnackBasis/compare/v2.9.1...v2.10.0) (2023-08-11)
 
 

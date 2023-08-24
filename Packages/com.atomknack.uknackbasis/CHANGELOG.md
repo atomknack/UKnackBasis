@@ -1,3 +1,10 @@
+## [2.11.1](https://github.com/atomknack/UKnackBasis/compare/v2.11.0...v2.11.1) (2023-08-24)
+
+
+### Bug Fixes
+
+* removed duplicate field in SOValueToUnityEventAdapter_Concrete_ ([c5f916b](https://github.com/atomknack/UKnackBasis/commit/c5f916b496ff9b3d33c378cb6cafdeee39ec588f))
+
 # [2.11.0](https://github.com/atomknack/UKnackBasis/compare/v2.10.0...v2.11.0) (2023-08-21)
 
 

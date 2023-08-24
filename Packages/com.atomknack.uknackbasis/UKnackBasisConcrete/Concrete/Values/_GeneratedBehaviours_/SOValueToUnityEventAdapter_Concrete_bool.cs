@@ -22,16 +22,12 @@ namespace UKnack.Concrete.Values
     internal sealed class SOValueToUnityEventAdapter_Concrete_bool : AbstractCommandSubscribedToSOEvent<bool>
     {
         [SerializeField]
-        [ValidReference(typeof(IEvent<bool>), nameof(IEvent<bool>.Validate))] 
-        private SOEvent<bool> _subscribedTo;
-
-        [SerializeField]
-        private UnityEvent<bool> _unityEvent;
-
-        [SerializeField]
         [Tooltip("Subscribes UnityEvent to SOValue, OnEnable invokes UnityEvent with value of SOValue")]
         [ValidReference(typeof(IValue<bool>), nameof(IValue<bool>.Validate))] 
         private SOValue<bool> _value;
+
+        [SerializeField]
+        private UnityEvent<bool> _unityEvent;
 
         private new void OnEnable()
         {
@@ -40,7 +36,7 @@ namespace UKnack.Concrete.Values
         }
 
         protected override IEvent<bool> SubscribedTo => 
-            IEvent<bool>.Validate(_subscribedTo);
+            IEvent<bool>.Validate(_value);
 
         public override void Execute(bool b) => 
             _unityEvent?.Invoke(b);

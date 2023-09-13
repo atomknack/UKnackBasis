@@ -1,3 +1,10 @@
+# [2.12.0](https://github.com/atomknack/UKnackBasis/compare/v2.11.1...v2.12.0) (2023-09-13)
+
+
+### Features
+
+* SOCachedValueOfBoolValuesGroup ([0d633b9](https://github.com/atomknack/UKnackBasis/commit/0d633b967eb1e267549ac41e25d0c21dbfa44c17))
+
 ## [2.11.1](https://github.com/atomknack/UKnackBasis/compare/v2.11.0...v2.11.1) (2023-08-24)
 
 
